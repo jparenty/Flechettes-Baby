@@ -6,7 +6,9 @@ class Criquet:
         self.playerQueue = deque()
 
     def addPlayer(self, name):
+        self.playerQueue.append(name)
 
+    def
 
     def scoring(results):
         for result in results:
@@ -16,4 +18,5 @@ class Criquet:
                 addScore(result)
         
     def addScore(result):
+
 
